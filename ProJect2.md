@@ -1,6 +1,6 @@
 # Seminar 2
 31.01.2023 date for this seminar!!!
-
+seminar all time 01:28:43 on GB site.
 ## Создание веток
 **git branch branch_name - создание новой ветки**
 
